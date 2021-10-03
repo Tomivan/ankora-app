@@ -98,7 +98,6 @@ class Schedule extends Component {
   }
 
   render() {
-    const { data } = this.state;
     return (
     <Paper>
       <Scheduler
