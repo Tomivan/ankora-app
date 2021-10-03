@@ -1,0 +1,36 @@
+.logo{
+    height: 5vh;
+    width: 10vw;
+}
+ul{
+    list-style-type: none;
+    margin-top: 50%;
+    margin-left: -15%;
+    color: #666666;
+}
+li{
+    margin-bottom: 2em;
+    width: 12vw;
+}
+.active{
+    background: #f97b5c;
+    color: #fff;
+    border-radius: 8px;
+    padding: .5em;
+}
+.nav-icon{
+    margin-right: 5%;
+}
+.profile-section{
+    display: flex;
+    position: absolute;
+    bottom: 3%;
+}
+.profile-picture{
+    height: 10vh;
+    margin-top: 10%;
+}
+.link{
+    text-decoration: none;
+    color: #f97b5c;
+}
